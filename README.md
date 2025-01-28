@@ -1,6 +1,6 @@
 # R4
 
-stands random risk random reward. randomness-oriented mindustry mod.
+pronounced "r four". stands for "random risk random reward". randomness-oriented mindustry mod.
 
 ## License
 
